@@ -14,8 +14,8 @@ development:
   reconnect: false
   database: demo_app_development
   pool: 5
-  username: demo_app_user 
-  password: roadrunner 
+  username: root
+  password:
   socket: /var/run/mysqld/mysqld.sock
 
 # Warning: The database defined as "test" will be erased and
